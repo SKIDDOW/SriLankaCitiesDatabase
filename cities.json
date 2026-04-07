@@ -28013,5 +28013,170 @@
         "postcode": "11104",
         "latitude": "7.0062833",
         "longitude": "79.8924828"
+    },
+    {
+        "id": "2214",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 1",
+        "name_en": "Fort",
+        "name_si": "කොටුව",
+        "sub_name_ta": "கோட்டை",
+        "postcode": "00100",
+        "latitude": "6.87587000",
+        "longitude": "79.86067390"
+    },
+    {
+        "id": "2215",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 2",
+        "name_en": "Slave Island",
+        "name_si": "කොම්පඤ්ඤ වීදිය",
+        "sub_name_ta": "கொம்பனித்தெரு",
+        "postcode": "00200",
+        "latitude": "6.91993310",
+        "longitude": "79.85402740"
+     },
+     {
+        "id": "2216",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 3",
+        "name_en": "Colpetty",
+        "name_si": "කොල්ලුපිටිය",
+        "sub_name_ta": "கொள்ளுபிட்டி",
+        "postcode": "00300",
+        "latitude": "6.89893440",
+        "longitude": "79.85376720"
+    },
+    {
+        "id": "2217",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 4",
+        "name_en": "Bambalapitiya",
+        "name_si": "බම්බලපිටිය",
+        "sub_name_ta": "பம்பலப்பிட்டி",
+        "postcode": "00400",
+        "latitude": "6.89613350",
+        "longitude": "79.85714750"
+    },
+    {
+        "id": "2218",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 5",
+        "name_en": "Havelock Town",
+        "name_si": "තිඹිරිගස්යාය",
+        "sub_name_ta": "ஹெவ்லொக் நகரம்",
+        "postcode": "00500",
+        "latitude": "6.88879470",
+        "longitude": "79.86630240"
+    },
+    {
+        "id": "2219",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 6",
+        "name_en": "Wellawatta",
+        "name_si": "වැල්ලවත්ත",
+        "sub_name_ta": "வெள்ளவத்தை",
+        "postcode": "00600",
+        "latitude": "6.87465790",
+        "longitude": "79.86048310"
+    },
+    {
+        "id": "2220",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 7",
+        "name_en": "Cinnamon Gardens",
+        "name_si": "කුරුඳු වත්ත",
+        "sub_name_ta": "கறுவாத் தோட்டம்",
+        "postcode": "00700",
+        "latitude": "6.91166520",
+        "longitude": "79.86456780"
+    },
+    {
+        "id": "2221",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 8",
+        "name_en": "Borella",
+        "name_si": "බොරැල්ල",
+        "sub_name_ta": "பொறளை",
+        "postcode": "00800",
+        "latitude": "6.91217960",
+        "longitude": "79.88288280"
+    },
+    {
+        "id": "2222",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 9",
+        "name_en": "Dematagoda",
+        "name_si": "දෙමටගොඩ",
+        "sub_name_ta": "தெமட்டகொடை",
+        "postcode": "00900",
+        "latitude": "6.93677080",
+        "longitude": "79.86078060"
+    },
+    {
+        "id": "2223",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 10",
+        "name_en": "Maradana",
+        "name_si": "මරදාන",
+        "sub_name_ta": "மருதானை",
+        "postcode": "01000",
+        "latitude": "6.92770380",
+        "longitude": "79.86608360"
+    },
+    {
+        "id": "2224",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 11",
+        "name_en": "Pettah",
+        "name_si": "පිට කොටුව",
+        "sub_name_ta": "புறக் கோட்டை",
+        "postcode": "01100",
+        "latitude": "6.93904180",
+        "longitude": "79.85331900"
+    },
+    {
+        "id": "2225",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 12",
+        "name_en": "Hulftsdorp",
+        "name_si": "අලුත් කඩේ",
+        "sub_name_ta": "புதுக்கடை",
+        "postcode": "01200",
+        "latitude": "6.93863620",
+        "longitude": "79.86091740"
+    },
+    {
+        "id": "2226",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 13",
+        "name_en": "Kotahena",
+        "name_si": "කොටහේන",
+        "sub_name_ta": "கொட்டாஞ்சேனை",
+        "postcode": "01300",
+        "latitude": "6.94876640",
+        "longitude": "79.86048310"
+    },
+    {
+        "id": "2227",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 14",
+        "name_en": "Grandpass",
+        "name_si": "ග්‍රෑන්ඩ්පාස් ",
+        "sub_name_ta": "பாலத்துறை",
+        "postcode": "01400",
+        "latitude": "6.94476020",
+        "longitude": "79.86802080"
+    },
+    {
+        "id": "2228",
+        "district_id": "5",
+        "name_ta": "கொழும்பு 15",
+        "name_en": "Modara",
+        "name_si": "මෝදර",
+        "sub_name_ta": "முகத்துவாரம்",
+        "postcode": "01500",
+        "latitude": "6.96547650",
+        "longitude": "79.87083950"
     }
 ]
